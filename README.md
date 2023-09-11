@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+If you want to run this code correctly, you'll have to download node_modules manually, as I'm not uploading the whole folder in this repository. This is just a test.
+
 ## Available Scripts
 
 In the project directory, you can run:
